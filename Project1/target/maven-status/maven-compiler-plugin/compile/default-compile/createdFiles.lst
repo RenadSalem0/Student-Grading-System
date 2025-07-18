@@ -1,0 +1,15 @@
+com\mycompany\project1\RegistrationFrame.class
+com\mycompany\project1\ResultSetTableModel.class
+com\mycompany\project1\AdminDashboard.class
+com\mycompany\project1\StudentGradingSystem.class
+com\mycompany\project1\DatabaseConnection.class
+com\mycompany\project1\LoginFrame.class
+com\mycompany\project1\Session.class
+com\mycompany\project1\ManageStudentsFrame.class
+com\mycompany\project1\ViewStudentsFrame.class
+com\mycompany\project1\StudentDashboard.class
+com\mycompany\project1\TeacherDashboard.class
+com\mycompany\project1\ManageGradesFrame.class
+com\mycompany\project1\EnrollStudentFrame.class
+com\mycompany\project1\NotificationManager.class
+com\mycompany\project1\ManageCoursesFrame.class
